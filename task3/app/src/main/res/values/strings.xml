@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="create_account">Not registered? Create account</string>
+    <string name="get_started">Get started</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
