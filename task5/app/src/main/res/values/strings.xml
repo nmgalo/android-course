@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">task5</string>
+    <string name="run_range">Run range</string>
+    <string name="swim_range">Swim range</string>
+    <string name="calorie">Calorie</string>
+    <string name="save">Save</string>
+    <string name="average_stats">საშუალო სტატისტიკა:\n Run: %1$s,\n Swim: %2$s,\n Calorie:%3$s;\nჯამურად გარბენილი მანძილი: %4$s</string>
+</resources>
