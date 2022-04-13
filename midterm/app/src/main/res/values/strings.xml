@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="balance">Balance</string>
+    <string name="add_balance">Add balance</string>
+    <string name="amount">Amount</string>
+    <string name="full_name_on_card">Full name on card</string>
+    <string name="example_john_jason_doe">Example: John Jason Doe</string>
+    <string name="credit_card_number">Credit card number</string>
+    <string name="card_number_placeholder">Ex: 0000 0000 0000 0000</string>
+    <string name="expiration_date">Expiration Date</string>
+    <string name="month">MM</string>
+    <string name="year">YY</string>
+    <string name="cvv_code">CVV Code</string>
+    <string name="cvv_hint">EX: 000</string>
+    <string name="buy_now">Buy now</string>
+    <string name="name">Name</string>
+    <string name="card_number">Card Number</string>
+    <string name="expire_date">Expire Date</string>
+    <string name="pay">Pay</string>
+</resources>
