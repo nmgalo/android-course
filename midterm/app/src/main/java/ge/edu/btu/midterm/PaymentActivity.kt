@@ -30,7 +30,7 @@ class PaymentActivity : AppCompatActivity() {
         expireDateValue.text = intent.extras?.get("expire_date").toString()
 
         pay.setOnClickListener {
-            onBackPressed()
+            finish()
         }
     }
 }

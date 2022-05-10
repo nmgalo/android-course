@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task6</string>
+    <string name="home">Home</string>
+    <string name="open_second_fragment">Open second fragment</string>
+    <string name="go_back">Go back</string>
+    <string name="second_screen">Second screen</string>
+</resources>
